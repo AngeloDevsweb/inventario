@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACI,cAAe,CACf,wBAA2B,CAC3B,YAAa,CACb,iBACJ","file":"main.c4ca8b9b.chunk.css","sourcesContent":[".icono{\r\n    font-size: 28px;\r\n    background-color: slategray;\r\n    padding: 10px;\r\n    border-radius: 5px;\r\n}"]}
